@@ -6,6 +6,9 @@
 
 	* Arrays
 
+respuesta
+ ARRAY : UN ARRAY ES UNA FORMA DE GUARDAR DATOS EN FORMA DE SECUENCIA DE FORMA QUE SE PUEDA ACCEDER A CADA UNO D EELLOS MEDIANTE UN INDICE , CON SU RESPECTIVAS FUNCIONES ADHERIDAS .	
+
 2. Desde la carpeta `Prep` en la carpeta donde clonaste el repo, ingresa el comando `npm test JSIII.test.js` para correr los tests automatizados. Al principio, todos los tests estarán fallados/rotos. Encontrarás las funciones para hacer pasar los tests en el archivo `homework.js`.
 
 
