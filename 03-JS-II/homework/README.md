@@ -6,6 +6,11 @@
 
 * `for`
 * `&&`, `||`, `!`
+RESPUESTAS
+FOR : FOR SE USA PARA SIMULAR BUCLES DE SENTENCIAS ,SIN NECESIDAD DE SER BUCLE
+&& : ES UN OPERADOR QUE AYUDA AL IF VERIFICANDO EL PRIMER CONDICIONAL QUE SEA VERDAD SI O SI ,SINO FALSE 
+||: ES UN OPERADOR QUE AYUDA AL IF VERIFICANDO EL PRIMER CONDICIONAL SI VERDAD , SEA CONSIREDADO TRUE
+| : ES UN OPERADRO IGUAL AL ANTERIOS PERO VERIFICA AMBOS CONDICIONES INDEPENDIENTEMENTE QUE YA SE SEPA QUE ES TRUE EL PRIMER CONDICIONAL
 
 2. Desde la carpeta `Prep` en la carpeta donde clonaste el repo, ingresa el comando `npm test JSII.test.js` para correr los tests automatizados. Al principio, todos los tests estarán fallados/rotos. Encontrarás las funciones para hacer pasar los tests en el archivo `homework.js`.
 
